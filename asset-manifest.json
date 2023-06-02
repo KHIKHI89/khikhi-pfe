@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KHIKHI89/khikhi-chart.git/static/css/main.ef7ece75.css",
+    "main.js": "/KHIKHI89/khikhi-chart.git/static/js/main.a8bfaf75.js",
+    "index.html": "/KHIKHI89/khikhi-chart.git/index.html",
+    "main.ef7ece75.css.map": "/KHIKHI89/khikhi-chart.git/static/css/main.ef7ece75.css.map",
+    "main.a8bfaf75.js.map": "/KHIKHI89/khikhi-chart.git/static/js/main.a8bfaf75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef7ece75.css",
+    "static/js/main.a8bfaf75.js"
+  ]
+}
